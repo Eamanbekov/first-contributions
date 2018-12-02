@@ -30,6 +30,7 @@
 - [Jacqueline Bruen](https://github.com/jebruen)
 - [Saad Alnour](https://github.com/SaadAlnour)
 - [hugo](https://github.com/ggoyo))
+- [Emir](https://github.com/eamanbekov)
 - [Ashish Barnawal](https://github.com/mango3122)
 - [Aaron Meinicke RC] (https://github.com/RudeCoffee)
 - [Eric Brown](https://github.com/Aeluwin)
